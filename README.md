@@ -1,6 +1,6 @@
 # 🧠 Spot the Icon [Singapore Edition]
 
-A fun, dementia-friendly bubble-popping memory game built using **Python** and **Pygame**. Players must click the correct floating icon that matches the target word shown!
+A fun, dementia-friendly icon-spotting memory game built using **Python** and **Pygame**. Players must click the correct floating icon that matches the target word shown!
 
 ---
 
@@ -76,7 +76,7 @@ pip install -r requirements.txt
 ### ✅ 4. Run the game 🎮
 
 ```bash
-python bubble_pop.py
+python spot_icon.py
 ```
 
 ---
@@ -84,13 +84,21 @@ python bubble_pop.py
 ## 📁 Project Structure
 
 ```
-dementia_bubble_pop/
-├── assets/                 # Images, fonts, icons
+01.020_DTP_III/
+│
+├── assets/                 # Game assets
 │   ├── Playwrite.ttf       # Custom font
-│   └── [icon images].png
-├── bubble_pop.py           # Main game logic
+│   └── [icon images].png   # All icon images used in-game
+│
+├── media/                  # Screenshots for README or documentation
+│   ├── start.png
+│   ├── gameplay.png
+│   └── end.png
+│
+├── spot_icon.py            # Main game logic and entry point
 ├── requirements.txt        # Python dependencies
-└── README.md               # This file
+├── README.md               # Project overview and instructions
+└── .gitignore              # Files/folders Git should ignore
 ```
 
 ---
