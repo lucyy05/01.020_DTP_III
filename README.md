@@ -1,8 +1,3 @@
-Here's a clean, informative `README.md` for your **"Spot the Icon \[Singapore Edition]"** game:
-
----
-
-````markdown
 # 🧠 Spot the Icon [Singapore Edition]
 
 A fun, dementia-friendly bubble-popping memory game built using **Python** and **Pygame**. Players must click the correct floating icon that matches the target word shown!
@@ -69,26 +64,3 @@ dementia_bubble_pop/
 * Randomized target word
 * Click detection and feedback
 * Designed to be intuitive for seniors
-
----
-
-## 🧑‍💻 Author
-
-Lucy Zhu Zihui
-[GitHub Profile](https://github.com/lucyy05)
-
----
-
-## 📜 License
-
-MIT License – feel free to adapt and build upon this project.
-
-```
-
----
-
-Let me know if you'd like to include:
-- A GIF of gameplay
-- Your lab name, school, or collaborators
-- Credits to any image/icon sources used
-```
