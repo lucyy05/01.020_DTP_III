@@ -8,16 +8,20 @@ A fun, dementia-friendly bubble-popping memory game built using **Python** and *
 
 - Icons (images) float around the screen randomly.
 - At the top, a word is displayed — e.g., “Merlion”.
-- Click the correct image to score.
+- Identify and select the correct image.
 - Feedback is given immediately (“Good job!” / “Try again!”).
 
 ---
 
 ## 📷 Preview
 
-![Game start screenshot](media/start.png)
-![In game screenshot](media/gameplay.png)
-![Game end screenshot](media/end.png)
+<table>
+  <tr>
+    <td><img src="media/start.png" width="250"/></td>
+    <td><img src="media/gameplay.png" width="250"/></td>
+    <td><img src="media/end.png" width="250"/></td>
+  </tr>
+</table>
 
 ---
 
