@@ -25,21 +25,55 @@ A fun, dementia-friendly bubble-popping memory game built using **Python** and *
 
 ---
 
-## 📦 Requirements
+## 📦 Setup
 
-All dependencies are listed in `requirements.txt`. To install:
+### ✅ 1. Clone this repository
+
+Open your terminal (Command Prompt / PowerShell / Terminal) and run:
 
 ```bash
-pip install -r requirements.txt
-````
+git clone https://github.com/lucyy05/01.020_DTP_III.git
+```
 
-Main dependencies:
+Then move into the project folder:
 
-* `pygame`
+```bash
+cd 01.020_DTP_III
+```
 
 ---
 
-## 🚀 How to Run
+### ✅ 2. Set up a virtual environment (optional but recommended)
+
+```bash
+python -m venv venv
+```
+
+Activate the virtual environment:
+
+* On **Windows**:
+
+```bash
+venv\Scripts\activate
+```
+
+* On **Mac/Linux**:
+
+```bash
+source venv/bin/activate
+```
+
+---
+
+### ✅ 3. Install the required Python packages
+
+```bash
+pip install -r requirements.txt
+```
+
+---
+
+### ✅ 4. Run the game 🎮
 
 ```bash
 python bubble_pop.py
