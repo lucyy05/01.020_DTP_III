@@ -1,6 +1,6 @@
 # 🧠 Spot the Icon [Singapore Edition]
 
-A fun, dementia-friendly icon-spotting memory game built using **Python** and **Pygame**. Players must click the correct floating icon that matches the target word shown!
+A fun, dementia-friendly icon-spotting memory game built using **Pygame**. Players must click the correct floating icon that matches the target word shown!
 
 ---
 
